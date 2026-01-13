@@ -34,7 +34,7 @@
     "@codemirror/language": "^6.6.0",
     "@codemirror/state": "^6.2.0",
     "@codemirror/view": "^6.9.2",
-    "@floating-ui/dom": "^1.2.4",
+    "@floating-ui/dom": "^1.7.4",
     "@github/clipboard-copy-element": "^1.1.2",
     "@github/hotkey": "^2.0.1",
     "@github/markdown-toolbar-element": "^2.1.1",
