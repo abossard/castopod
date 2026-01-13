@@ -33,7 +33,7 @@
     "@codemirror/lang-xml": "^6.0.2",
     "@codemirror/language": "^6.6.0",
     "@codemirror/state": "^6.2.0",
-    "@codemirror/view": "^6.9.2",
+    "@codemirror/view": "^6.39.5",
     "@floating-ui/dom": "^1.2.4",
     "@github/clipboard-copy-element": "^1.1.2",
     "@github/hotkey": "^2.0.1",
